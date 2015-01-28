@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+
+commons-lite/target/*
+dex-ir/target/*
+dex-reader/target/*
+dex-tools/target/*
+dex-translator/target/*
+jar-rename/target/*

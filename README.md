@@ -1,4 +1,4 @@
-# ABP-Dex2Jar Plugin
+# Dex2Jar Plugin
 An Eclipse plugin of Dex2Jar.
 
 Original project source from: https://code.google.com/p/dex2jar/
